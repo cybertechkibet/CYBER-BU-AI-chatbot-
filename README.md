@@ -4,7 +4,7 @@
 
 # Cyber Bu AI 🤖
 
-**Cyber Bu AI** is an interactive, all-in-one student productivity chatbot designed to streamline academic workflows, manage schedules, and enhance learning. Inspired by concepts from our **(BCT) class**, this tool bridges AI communication with practical student organization.
+**Cyber Bu AI** is an interactive, all-in-one student productivity chatbot designed to streamline academic workflows, manage schedules, and enhance learning. Inspired by concepts from our **(BCT)**, this tool bridges AI communication with practical student organization.
 
 ## 🌟 Key Features
 * **Smart Study Assistant:** Answers academic questions and explains complex topics.
